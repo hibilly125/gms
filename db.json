@@ -1,13 +1,37 @@
-{
-	"PlaceHolderItem": [{
-			"title": "string",
-			"desc": "string",
-			"hash": "string"
-		},
-		{
-			"title": "string",
-			"desc": "string",
-			"hash": "string"
-		}
-	]
-}
+[
+    {
+        "title": "Greeting Name",
+        "desc": "People are likely to identify emails with greetings.<br/>e.g. Mr. Johnson Jong",
+        "hash": "#Greeting_Name#"
+    },
+    {
+        "title": "Salutation",
+        "desc": "Salutation for Nominee.",
+        "hash": "#Salutation#"
+    },
+    {
+        "title": "First Name",
+        "desc": "First name for Nominee.",
+        "hash": "#FirstName#"
+    },
+    {
+        "title": "Last Name",
+        "desc": "Last name for Nominee.",
+        "hash": "#LastName#"
+    },
+    {
+        "title": "Accommodation",
+        "desc": "Description for hotel accommodation.",
+        "hash": "#Accommodation#"
+    },
+    {
+        "title": "Accompany Guest(s)",
+        "desc": "Display accompanying guest(s) together<br/>e.g. Michael Lee and Peter Wong",
+        "hash": "#Accompanying_Guest#"
+    },
+    {
+        "title": "Ticket",
+        "desc": "Display ticket for guest",
+        "hash": "#Ticket#"
+    }
+]
